@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.twertwert</groupId>
 	<artifactId>release-test</artifactId>
-	<version>1.2-SNAPSHOT</version>
+	<version>1.1.1</version>
 	<packaging>jar</packaging>
 
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:twertwert/release-test.git</developerConnection>
 		<url>https://github.com/twertwert/release-test</url>
-		<tag>HEAD</tag>
+		<tag>release-test-1.1.1</tag>
 	</scm>
 
 	<build>
