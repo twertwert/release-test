@@ -11,8 +11,7 @@
 
 
 	<scm>
-		<developerConnection>scm:git:https://
-			89f0a78496fcd87e6a0bb19189938afd395d36e8@github.com/twertwert/release-test.git
+		<developerConnection>scm:git:ssh://github.com/twertwert/release-test.git
 		</developerConnection>
 		<url>https://github.com/twertwert/release-test</url>
 		<tag>HEAD</tag>
