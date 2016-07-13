@@ -4,14 +4,14 @@
 
 	<groupId>com.twertwert</groupId>
 	<artifactId>release-test</artifactId>
-	<version>1.1.1</version>
+	<version>1.1.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:twertwert/release-test.git</developerConnection>
 		<url>https://github.com/twertwert/release-test</url>
-		<tag>release-test-1.1.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<build>
