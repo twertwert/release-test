@@ -6,7 +6,7 @@ package twertwert;
 public class DocumentedStuff {
 
 	/**
-	 * documentationnn
+	 * documentationnnn
 	 */
 	public void method() {
 	}
